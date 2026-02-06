@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CoinGecko](https://static.coingecko.com/s/coingecko-logo-8903d34ce19ca4be1c81f0db30e924154750d208683fad7ae6f2ce06c76d0a56.png)
+![CoinGecko](https://mintcdn.com/coingecko/jnTeya2lzn4RPB_4/logo/dark.png?fit=max&auto=format&n=jnTeya2lzn4RPB_4&q=85&s=67fed51ed31b0c5ee6c788469a874896)
 
 **Production-ready X402 test scripts for CoinGecko's pay-per-use API endpoints**
 
@@ -188,6 +188,6 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ## Links
 
-- [CoinGecko API Documentation](https://docs.coingecko.com/)
+- [CoinGecko x402 API Documentation](https://docs.coingecko.com/docs/x402)
 - [X402 Protocol Documentation](https://docs.cdp.coinbase.com/x402/welcome)
 - [x402 Python Package](https://pypi.org/project/x402/)
