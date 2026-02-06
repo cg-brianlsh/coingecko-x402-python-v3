@@ -162,7 +162,7 @@ def setup_solana_client(client: x402Client, private_key: str) -> str:
     """Set up Solana network client and return wallet address."""
     signer = KeypairSigner.from_base58(private_key)
     register_exact_svm_client(client, signer)
-    return str(signer.public_key)
+    return signer.address
 
 
 def print_response(endpoint_name: str, response_data: dict):
