@@ -41,7 +41,7 @@ Before running these scripts, you'll need:
 1. Bridge USDC from Ethereum to Base using [Base Bridge](https://bridge.base.org/)
 2. Or purchase USDC directly on Base via [Coinbase](https://www.coinbase.com/)
 
-> ⚠️ **Cost Warning**: Each API call costs **$0.01 USDC**. Running all tests will cost approximately **$0.05 USDC**.
+> 💵 **Cost**: Each API call costs **$0.01 USDC**. Running all tests will cost approximately **$0.05 USDC**.
 
 ---
 
