@@ -174,9 +174,9 @@ python main.py token_data
 
 ---
 
-## Notes On Payment Flow
+## Payment Flow
 
-The standard X402 client expects payment requirements via the `payment-required` header. Some services return X402 v2 payment requirements in the JSON body. This repo includes a minimal fallback for that case: it reads the JSON body, builds the payment signature, retries, and returns the data without extra debug output.
+This implementation follows the standard X402 flow using payment requirements returned in the response headers.
 
 ---
 
