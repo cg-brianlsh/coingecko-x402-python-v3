@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CoinGecko](https://mintcdn.com/coingecko/jnTeya2lzn4RPB_4/logo/dark.png?fit=max&auto=format&n=jnTeya2lzn4RPB_4&q=85&s=67fed51ed31b0c5ee6c788469a874896)
+![CoinGecko](https://mintcdn.com/coingecko/i9l2MT4etZGYjSx8/assets/logos/light.png?fit=max&auto=format&n=i9l2MT4etZGYjSx8&q=85&s=1f65227bee805b1106ace22fb56fdad7)
 
 **Production-ready X402 test scripts for CoinGecko's pay-per-use API endpoints**
 
